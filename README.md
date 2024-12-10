@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm an aspiring software developer passionate abou
 ## 📫 Get in Touch
 
 - 📧 **Email**: kyle.march-maccuish@keyin.com
-- 🌐 [LinkedIn](#) https://www.linkedin.com/in/kyle-march-maccuish/
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kyle-march-maccuish/)
 
 ---
 
